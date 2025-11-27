@@ -40,6 +40,3 @@ Share this link with your instructor and TAs for grading.
 2. Push all code and README changes to your GitHub repository.
 3. Submit your repo link as instructed.
 4. (Optional) Add any notes or screenshots if required by your instructor.
-## Build Screenshot
-
-![Expo Build QR Screenshot](./Screenshot 2025-11-27 225932)
