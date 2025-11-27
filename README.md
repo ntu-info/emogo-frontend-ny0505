@@ -28,7 +28,8 @@ This is a very small Expo project using **expo-router** with:
 
 **Preview APK Build Link:**
 
-[Download and install the preview build (APK)](https://expo.dev/accounts/ny0505/projects/expo-router-mwe/builds/cc0d787c-0071-415e-8765-0448aa8cba86)
+[Download and install the preview build (APK)]
+(https://expo.dev/accounts/ny0505/projects/expo-router-mwe/builds/cc0d787c-0071-415e-8765-0448aa8cba86)
 
 Share this link with your instructor and TAs for grading.
 
