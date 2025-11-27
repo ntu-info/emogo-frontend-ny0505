@@ -4,10 +4,6 @@
 
 This is a very small Expo project using **expo-router** with:
 
-- A root `Stack` layout
-- A `(tabs)` group using `Tabs`
-- A `details` screen pushed on top of the tab stack
-- `Link` components and `useRouter` for navigation
 
 ## How to run
 
@@ -26,3 +22,23 @@ This is a very small Expo project using **expo-router** with:
    ```
 
 3. Open the app on a device or emulator using the Expo dev tools.
+
+
+## Assignment Submission
+
+**Preview APK Build Link:**
+
+[Download and install the preview build (APK)](https://expo.dev/accounts/ny0505/projects/expo-router-mwe/builds/cc0d787c-0071-415e-8765-0448aa8cba86)
+
+Share this link with your instructor and TAs for grading.
+
+
+### Final Steps
+
+1. Confirm your Expo build link is in this README.
+2. Push all code and README changes to your GitHub repository.
+3. Submit your repo link as instructed.
+4. (Optional) Add any notes or screenshots if required by your instructor.
+## Build Screenshot
+
+![Expo Build QR Screenshot](./Screenshot 2025-11-27 225932)
